@@ -6,6 +6,8 @@
 	[
 		"AutoPEP8",
 		"Better CoffeeScript",
+		"INI",
+		"Jade",
 		"JsFormat",
 		"JSX",
 		"Package Control",
@@ -14,6 +16,7 @@
 		"SublimeLinter-coffee",
 		"SublimeLinter-jshint",
 		"SublimeLinter-jsxhint",
-		"SublimeLinter-pep8"
+		"SublimeLinter-pep8",
+		"Terminal"
 	]
 }
