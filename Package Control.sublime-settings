@@ -1,4 +1,5 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
@@ -14,9 +15,9 @@
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-coffee",
-		"SublimeLinter-jshint",
-		"SublimeLinter-jsxhint",
+		"SublimeLinter-contrib-eslint",
 		"SublimeLinter-pep8",
-		"Terminal"
+		"Terminal",
+		"Theme - Solarized Space"
 	]
 }

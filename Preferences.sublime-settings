@@ -1,12 +1,14 @@
 {
-  "auto_complete_commit_on_tab": true,
-  "color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
-  "detect_indentation": true,
-  "font_size": 9,
-  "highlight_line": true,
-  "ignored_packages":
-  [
-  ],
-  "tab_size": 2,
-  "translate_tabs_to_spaces": true
+	"auto_complete_commit_on_tab": true,
+	"color_scheme": "Packages/User/SublimeLinter/Solarized (Dark) (SL).tmTheme",
+	"detect_indentation": true,
+	"font_face": "Ubuntu Mono",
+	"font_size": 11,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+	],
+	"tab_size": 2,
+	"theme": "Solarized Space Dark.sublime-theme",
+	"translate_tabs_to_spaces": true
 }
