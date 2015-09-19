@@ -5,19 +5,22 @@
 	],
 	"installed_packages":
 	[
-		"AutoPEP8",
 		"Better CoffeeScript",
 		"INI",
 		"Jade",
 		"JsFormat",
 		"JSX",
+		"Markdown Preview",
 		"Package Control",
+		"Rust",
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-coffee",
 		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-contrib-rustc",
 		"SublimeLinter-pep8",
 		"Terminal",
-		"Theme - Solarized Space"
+		"Theme - Solarized Space",
+		"TOML"
 	]
 }
