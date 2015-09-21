@@ -18,6 +18,7 @@
 		"SublimeLinter-coffee",
 		"SublimeLinter-contrib-eslint",
 		"SublimeLinter-contrib-rustc",
+		"SublimeLinter-ghc",
 		"SublimeLinter-pep8",
 		"Terminal",
 		"Theme - Solarized Space",
